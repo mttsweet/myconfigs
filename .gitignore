@@ -1,0 +1,5 @@
+*
+!.gitignore
+!terminology
+!nvim
+!.zshrc
