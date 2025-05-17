@@ -1,5 +1,7 @@
 *
 !.gitignore
 !terminology
-!nvim/
+!nvim
+!nvim/*
 !zshconf
+!zshconf/*
